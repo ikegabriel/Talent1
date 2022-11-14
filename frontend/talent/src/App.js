@@ -8,7 +8,7 @@ function App() {
   const[talent, setTalent] = useState([{}]);
 
   useEffect(()=>{
-    fetch("http://localhost:8000/api/talent/").then(
+    fetch("https://talent1.up.railway.app/api/talent/").then(
       response => response.json()
     ).then(
       data => {
