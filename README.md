@@ -10,4 +10,4 @@ Some of the technologies used in this task include:
 <img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'>
 
 # Live site
-you can find the live site here => https://ikegabriel.github.io/Talent1/
+you can visit the live site here => https://ikegabriel.github.io/Talent1/
